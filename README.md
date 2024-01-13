@@ -12,6 +12,6 @@ This application was built for the purpose of final coursework for the D288 back
 ### Programming Language
 - **Java**
 ### Database
-- **MySQL** utilizing spring data JPA for database interactions
+- **MySQL** 
 ### Framework
 - **Spring**
